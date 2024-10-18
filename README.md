@@ -16,10 +16,6 @@ Developed by the AeroXperts team at MPSTME for AeroTHON 2024, this project utili
 - Geekworm M901 PCIe to M.2 Key-M NVMe SSD Adapter
 - Crucial P5 Plus PCIe 4.0 M.2 2280 SSD
 
-## GitHub Repository
-
-[github.com/agastyahukoo/OpenCV-Drone](https://github.com/agastyahukoo/OpenCV-Drone)
-
 ## Installation
 
 1. **Clone the Repository**
