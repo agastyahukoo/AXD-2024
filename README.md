@@ -2,20 +2,6 @@
 
 Developed by the AeroXperts team at MPSTME for AeroTHON 2024, this project utilizes OpenCV for real-time computer vision processing to enhance drone performance in tasks like object detection, tracking, and autonomous navigation.
 
-## Features
-
-- **Real-time Object Detection**: Detects and classifies objects using OpenCV.
-- **Motion Tracking**: Follows moving objects for precise positioning.
-- **Autonomous Navigation**: Interprets camera feed for navigation and obstacle avoidance.
-- **Hardware Integration**: Efficient data processing with onboard systems.
-- **Performance Optimization**: Minimizes latency for real-time decisions.
-
-## Hardware Used
-
-- Raspberry Pi 5 (4GB)
-- Geekworm M901 PCIe to M.2 Key-M NVMe SSD Adapter
-- Crucial P5 Plus PCIe 4.0 M.2 2280 SSD
-
 ## Installation
 
 1. **Clone the Repository**
