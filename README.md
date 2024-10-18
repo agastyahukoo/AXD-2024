@@ -1,7 +1,3 @@
-# OpenCV-Drone - v0.1
-
-Developed by the AeroXperts team at MPSTME for AeroTHON 2024, this project utilizes OpenCV for real-time computer vision processing to enhance drone performance in tasks like object detection, tracking, and autonomous navigation.
-
 ## Installation
 
 1. **Clone the Repository**
